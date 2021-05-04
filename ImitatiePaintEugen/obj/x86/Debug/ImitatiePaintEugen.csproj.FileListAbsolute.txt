@@ -1,0 +1,31 @@
+C:\Users\Elev\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\bin\Debug\ImitatiePaintEugen.exe
+C:\Users\Elev\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\bin\Debug\ImitatiePaintEugen.pdb
+C:\Users\Elev\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elev\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.Form1.resources
+C:\Users\Elev\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.Properties.Resources.resources
+C:\Users\Elev\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elev\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elev\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.exe
+C:\Users\Elev\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.pdb
+C:\Users\Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\bin\Debug\ImitatiePaintEugen.exe
+C:\Users\Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\bin\Debug\ImitatiePaintEugen.pdb
+C:\Users\Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.csprojAssemblyReference.cache
+C:\Users\Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.Form1.resources
+C:\Users\Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.Properties.Resources.resources
+C:\Users\Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.csproj.GenerateResource.cache
+C:\Users\Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.csproj.CoreCompileInputs.cache
+C:\Users\Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.exe
+C:\Users\Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.pdb
+C:\Users\Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.ImageOptions.resources
+C:\Users\Elev\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.ImageOptions.resources
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\bin\Debug\ImitatiePaintEugen.exe
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\bin\Debug\ImitatiePaintEugen.pdb
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.csprojAssemblyReference.cache
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.Form1.resources
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.ImageOptions.resources
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.Properties.Resources.resources
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.csproj.GenerateResource.cache
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.csproj.CoreCompileInputs.cache
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.exe
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.pdb
+C:\Users\Fratii Eugen\Desktop\ImitatiePaintEugen\ImitatiePaintEugen\obj\x86\Debug\ImitatiePaintEugen.ShapePicker.resources
